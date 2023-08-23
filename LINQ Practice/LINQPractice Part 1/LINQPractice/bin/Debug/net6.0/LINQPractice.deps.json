@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LINQPractice/1.0.0": {
+        "dependencies": {
+          "TCPData": "1.0.0",
+          "TCPExtentions": "1.0.0"
+        },
+        "runtime": {
+          "LINQPractice.dll": {}
+        }
+      },
+      "TCPData/1.0.0": {
+        "runtime": {
+          "TCPData.dll": {}
+        }
+      },
+      "TCPExtentions/1.0.0": {
+        "runtime": {
+          "TCPExtentions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCPData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCPExtentions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

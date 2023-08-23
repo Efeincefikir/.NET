@@ -1,0 +1,11 @@
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\bin\Debug\net6.0\TCPExtentions.deps.json
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\bin\Debug\net6.0\TCPExtentions.dll
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\bin\Debug\net6.0\TCPExtentions.pdb
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\TCPExtentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\TCPExtentions.AssemblyInfoInputs.cache
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\TCPExtentions.AssemblyInfo.cs
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\TCPExtentions.csproj.CoreCompileInputs.cache
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\TCPExtentions.dll
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\refint\TCPExtentions.dll
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\TCPExtentions.pdb
+C:\Users\efein\source\repos\LINQPractice\TCPExtentions\obj\Debug\net6.0\ref\TCPExtentions.dll

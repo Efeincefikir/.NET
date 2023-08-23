@@ -1,0 +1,11 @@
+C:\Users\efein\source\repos\LINQPractice\TCPData\bin\Debug\net6.0\TCPData.deps.json
+C:\Users\efein\source\repos\LINQPractice\TCPData\bin\Debug\net6.0\TCPData.dll
+C:\Users\efein\source\repos\LINQPractice\TCPData\bin\Debug\net6.0\TCPData.pdb
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\TCPData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\TCPData.AssemblyInfoInputs.cache
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\TCPData.AssemblyInfo.cs
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\TCPData.csproj.CoreCompileInputs.cache
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\TCPData.dll
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\refint\TCPData.dll
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\TCPData.pdb
+C:\Users\efein\source\repos\LINQPractice\TCPData\obj\Debug\net6.0\ref\TCPData.dll
