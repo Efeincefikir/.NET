@@ -1,0 +1,14 @@
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\LINQPractice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\LINQPractice2.AssemblyInfoInputs.cache
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\LINQPractice2.AssemblyInfo.cs
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\LINQPractice2.csproj.CoreCompileInputs.cache
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\bin\Debug\net6.0\LINQPractice2.exe
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\bin\Debug\net6.0\LINQPractice2.deps.json
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\bin\Debug\net6.0\LINQPractice2.runtimeconfig.json
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\bin\Debug\net6.0\LINQPractice2.dll
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\bin\Debug\net6.0\LINQPractice2.pdb
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\LINQPractice2.dll
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\refint\LINQPractice2.dll
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\LINQPractice2.pdb
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\LINQPractice2.genruntimeconfig.cache
+C:\Users\efein\source\repos\LINQPractice2\LINQPractice2\obj\Debug\net6.0\ref\LINQPractice2.dll
