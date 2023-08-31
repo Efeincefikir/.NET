@@ -1,0 +1,14 @@
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\bin\Debug\net6.0\LINQPractice4.exe
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\bin\Debug\net6.0\LINQPractice4.deps.json
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\bin\Debug\net6.0\LINQPractice4.runtimeconfig.json
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\bin\Debug\net6.0\LINQPractice4.dll
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\bin\Debug\net6.0\LINQPractice4.pdb
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\LINQPractice4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\LINQPractice4.AssemblyInfoInputs.cache
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\LINQPractice4.AssemblyInfo.cs
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\LINQPractice4.csproj.CoreCompileInputs.cache
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\LINQPractice4.dll
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\refint\LINQPractice4.dll
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\LINQPractice4.pdb
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\LINQPractice4.genruntimeconfig.cache
+C:\Users\efein\source\repos\LINQPractice4\LINQPractice4\obj\Debug\net6.0\ref\LINQPractice4.dll
